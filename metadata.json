@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Perpustakaan",
+  "description": "Aplikasi pencatatan peminjaman buku perpustakaan untuk HP Android dengan antarmuka yang modern, cepat, dan mudah digunakan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
